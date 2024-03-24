@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nazqureshi
-- 👀 I’m interested in software development, game design, and looking to learn more about machine learning/AI.  
+- 👀 I’m interested in software development, game development, and looking to learn more about machine learning/AI.  
 - 📫 How to reach me --> Email: nqureshi7865@gmail.com
 
 <!---
